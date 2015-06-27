@@ -7,11 +7,11 @@ My name is Patrick Galvin. I'm a 13 year old web and mobile developer. I've been
 
 I know the following languages well:
 
-* Ruby & Rails
-* Python
-* C++
-* JavaScript
-* Delphi
-* Swift
+• Ruby & Rails
+• Python
+• C++
+• JavaScript
+• Delphi
+• Swift
 
 And of course I know HTML5 and CSS3 too, but they're markdown languages.
